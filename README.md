@@ -1,0 +1,1 @@
+# Thực hành Java xóa phần tử khỏi mảng #
